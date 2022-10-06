@@ -26,3 +26,4 @@ p {
 .card {
   @apply bg-gray-50 border border-gray-200 shadow-md rounded-lg p-4;
 }
+
